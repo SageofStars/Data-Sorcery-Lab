@@ -4,7 +4,7 @@ Projects and notes for Data Analyst training
 
 
 
-\## Certifications Covered:
+## Certifications Covered:
 
 * Google Advanced Data Analytics.
 * Python for Everybody.
@@ -16,14 +16,14 @@ Projects and notes for Data Analyst training
 
 
 
-\## Repo Structure.
+## Repo Structure.
 
 * Cert folders, notes, chaos.
 * Number ordering starts at 00.
 
 
 
-\## About Me
+## About Me
 
 I'm learning, growing, and will eat the ML sun.
 
