@@ -27,5 +27,3 @@ Projects and notes for Data Analyst training
 
 I'm learning, growing, and will eat the ML sun.
 
-
-
